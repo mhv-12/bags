@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-092611-02bt",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
+      ],
+      "dateStart": "2026-07-30T01:26:11.000Z",
+      "dateEnd": "2026-07-30T02:29:36.000Z",
+      "dateLabel": "7/30/2026, 9:26:11 AM - 7/30/2026, 10:29:36 AM",
+      "url": "https://mhv-12.github.io/bags/?report=20260730-092611-02bt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260726-103156-w3i1",
       "title": "Likeacheesecake",
       "commanders": [

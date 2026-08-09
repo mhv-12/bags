@@ -1,71 +1,104 @@
-[
-  {
-    "id": "20260730-092611-02bt",
-    "title": "Link Throws Siege",
-    "commanders": [
-      "Link Throws Siege"
-    ],
-    "dateStart": "2026-07-30T01:26:11.000Z",
-    "dateEnd": "2026-07-30T02:29:36.000Z",
-    "dateLabel": "7/30/2026, 9:26:11 AM - 7/30/2026, 10:29:36 AM",
-    "url": "https://mhv-12.github.io/bags/?report=20260730-092611-02bt",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 20,
-          "color": "#3b82f6"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260809-095740-3pj9",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260726-103156-w3i1",
-    "title": "Likeacheesecake",
-    "commanders": [
-      "Likeacheesecake"
-    ],
-    "dateStart": "2026-07-26T02:31:56.000Z",
-    "dateEnd": "2026-07-26T04:56:12.000Z",
-    "dateLabel": "7/26/2026, 10:31:56 AM - 7/26/2026, 12:56:12 PM",
-    "url": "https://mhv-12.github.io/bags/?report=20260726-103156-w3i1",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 39,
-          "color": "#ffffff"
-        }
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-08-09T01:57:40.000Z",
+      "dateEnd": "2026-08-09T02:32:09.000Z",
+      "dateLabel": "8/9/2026, 9:57:40 AM - 8/9/2026, 10:32:09 AM",
+      "url": "https://mhv-12.github.io/bags/?report=20260809-095740-3pj9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260730-092611-02bt",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260719-105852-phuq",
-    "title": "Link Does Damage",
-    "commanders": [
-      "Link Does Damage"
-    ],
-    "dateStart": "2026-07-19T02:58:52.000Z",
-    "dateEnd": "2026-07-19T03:49:46.000Z",
-    "dateLabel": "7/19/2026, 10:58:52 AM - 7/19/2026, 11:49:46 AM",
-    "url": "https://mhv-12.github.io/bags/?report=20260719-105852-phuq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 45,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-30T01:26:11.000Z",
+      "dateEnd": "2026-07-30T02:29:36.000Z",
+      "dateLabel": "7/30/2026, 9:26:11 AM - 7/30/2026, 10:29:36 AM",
+      "url": "https://mhv-12.github.io/bags/?report=20260730-092611-02bt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260726-103156-w3i1",
+      "title": "Likeacheesecake",
+      "commanders": [
+        "Likeacheesecake"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 63
+      "dateStart": "2026-07-26T02:31:56.000Z",
+      "dateEnd": "2026-07-26T04:56:12.000Z",
+      "dateLabel": "7/26/2026, 10:31:56 AM - 7/26/2026, 12:56:12 PM",
+      "url": "https://mhv-12.github.io/bags/?report=20260726-103156-w3i1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260719-105852-phuq",
+      "title": "Link Does Damage",
+      "commanders": [
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-07-19T02:58:52.000Z",
+      "dateEnd": "2026-07-19T03:49:46.000Z",
+      "dateLabel": "7/19/2026, 10:58:52 AM - 7/19/2026, 11:49:46 AM",
+      "url": "https://mhv-12.github.io/bags/?report=20260719-105852-phuq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 45,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 63
+      }
     }
-  }
-]
+  ]
+}

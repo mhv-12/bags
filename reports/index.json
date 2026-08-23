@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-111234-jnsv",
+      "title": "Likeacheesecake",
+      "commanders": [
+        "Likeacheesecake"
+      ],
+      "guild": {
+        "id": "C3A01A38-859F-EE11-BA1F-12061042B485",
+        "name": "Comms Are For The",
+        "tag": "WEAK"
+      },
+      "dateStart": "2026-08-23T03:12:34.000Z",
+      "dateEnd": "2026-08-23T04:16:40.238Z",
+      "dateLabel": "8/23/2026, 11:12:34 AM - 8/23/2026, 12:16:40 PM",
+      "url": "https://mhv-12.github.io/bags/?report=20260823-111234-jnsv",
+      "summary": {
+        "borderlandsPct": 0.047619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260809-103523-hqdd",
       "title": "Link Throws Siege",
       "commanders": [

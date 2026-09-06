@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-092303-bvm0",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
+      ],
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-09-06T01:23:03.000Z",
+      "dateEnd": "2026-09-06T03:26:25.661Z",
+      "dateLabel": "9/6/2026, 9:23:03 AM - 9/6/2026, 11:26:25 AM",
+      "url": "https://mhv-12.github.io/bags/?report=20260906-092303-bvm0",
+      "summary": {
+        "borderlandsPct": 0.896551724137931,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260823-111234-jnsv",
       "title": "Likeacheesecake",
       "commanders": [
